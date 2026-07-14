@@ -1,0 +1,8 @@
+node_modules/
+data/traffic.ndjson
+data/*.json
+inbox/*
+!inbox/.gitkeep
+.env
+.DS_Store
+docs/cmd-history.txt

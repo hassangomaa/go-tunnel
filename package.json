@@ -1,0 +1,10 @@
+{
+  "name": "go-tunnel",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "ws": "^8.18.0"
+  }
+}
